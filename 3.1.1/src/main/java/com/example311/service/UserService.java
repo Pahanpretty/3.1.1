@@ -1,7 +1,7 @@
-package service;
+package com.example311.service;
 
 
-import model.User;
+import com.example311.model.User;
 
 import java.util.List;
 

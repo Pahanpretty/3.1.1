@@ -1,8 +1,8 @@
-package userDAO;
+package com.example311.userDAO;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
-import model.User;
+import com.example311.model.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

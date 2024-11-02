@@ -1,13 +1,13 @@
-package controller;
+package com.example311.controller;
 
-import model.User;
+import com.example311.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import service.UserService;
+import com.example311.service.UserService;
 
 
 @Controller

@@ -1,7 +1,7 @@
-package userDAO;
+package com.example311.userDAO;
 
 
-import model.User;
+import com.example311.model.User;
 
 import java.util.List;
 
